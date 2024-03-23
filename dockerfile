@@ -1,4 +1,4 @@
-from node :14
+from node :latest
 WorkDIR /app
 copy pakage*.json ./
 run npm install
